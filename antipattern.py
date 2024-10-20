@@ -4,7 +4,7 @@ Created on Fri Oct  9 00:54:14 2020
 
 @author: mehedi.md.hasan
 
-October 20th 2024 modified by Corah
+Comment added Oct 20th
 """
 
 from abc import ABC, abstractmethod
